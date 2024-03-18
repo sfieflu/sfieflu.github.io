@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anniversary on SFI EFLU</title>
+    <link>https://sfieflu.github.io/tags/anniversary/</link>
+    <description>Recent content in Anniversary on SFI EFLU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 SFI EFLU</copyright>
+    <lastBuildDate>Sat, 16 Mar 2024 19:27:29 +0530</lastBuildDate><atom:link href="https://sfieflu.github.io/tags/anniversary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Remembering Aijaz Ahmed</title>
+      <link>https://sfieflu.github.io/posts/1/</link>
+      <pubDate>Sat, 16 Mar 2024 19:27:29 +0530</pubDate>
+      
+      <guid>https://sfieflu.github.io/posts/1/</guid>
+      <description>Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim labore culpa sint ad nisi Lorem pariatur mollit ex esse exercitation amet.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sfieflu.github.io/posts/1/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
